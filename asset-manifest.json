@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nehachowdary416/static/css/main.c0e2d5c9.css",
+    "main.js": "/nehachowdary416/static/js/main.23cb5bb8.js",
+    "static/js/592.167abb64.chunk.js": "/nehachowdary416/static/js/592.167abb64.chunk.js",
+    "index.html": "/nehachowdary416/index.html",
+    "main.c0e2d5c9.css.map": "/nehachowdary416/static/css/main.c0e2d5c9.css.map",
+    "main.23cb5bb8.js.map": "/nehachowdary416/static/js/main.23cb5bb8.js.map",
+    "592.167abb64.chunk.js.map": "/nehachowdary416/static/js/592.167abb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e2d5c9.css",
+    "static/js/main.23cb5bb8.js"
+  ]
+}
